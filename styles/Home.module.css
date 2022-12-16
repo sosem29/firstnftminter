@@ -123,6 +123,13 @@
   box-shadow: 0px 2px 8px -1px #0000001a;
 }
 
+.container {
+	background: "#1F1F1F"
+}
+.wallet-adapter-button-trigger {
+  background-color: #833BBE;
+}
+
 .thirteen::before,
 .thirteen::after {
   content: '';
